@@ -1,29 +1,29 @@
 # Big_Data_Lab_2
-+----+-----------+-----+
-|Year|   Language|Count|
-+----+-----------+-----+
-|2010|       java|   52|
-|2010|        php|   46|
-|2010| javascript|   44|
-|2010|     python|   26|
-|2010|objective-c|   23|
-|2010|          c|   20|
-|2010|       ruby|   12|
-|2010|     delphi|    8|
-|2010|applescript|    3|
-|2010|       bash|    3|
-|2011|        php|  102|
-|2011|       java|   93|
-|2011| javascript|   83|
-|2011|     python|   37|
-|2011|objective-c|   34|
-|2011|          c|   24|
-|2011|       ruby|   20|
-|2011|       perl|    9|
-|2011|     delphi|    8|
-|2011|       bash|    7|
-|2012|        php|  154|
-|2012| javascript|  132|
+#+----+-----------+-----+
+#|Year|   Language|Count|
+#+----+-----------+-----+
+#|2010|       java|   52|
+#|2010|        php|   46|
+#|2010| javascript|   44|
+#|2010|     python|   26|
+#|2010|objective-c|   23|
+#|2010|          c|   20
+#|2010|       ruby|   12|
+#|2010|     delphi|    8|
+#|2010|applescript|    3|
+#|2010|       bash|    3|
+#|2011|        php|  102|
+#|2011|       java|   93|
+#|2011| javascript|   83|
+#|2011|     python|   37|
+#|2011|objective-c|   34|
+#|2011|          c|   24|
+#|2011|       ruby|   20|
+#|2011|       perl|    9|
+#|2011|     delphi|    8|
+#|2011|       bash|    7|
+#|2012|        php|  154|
+#|2012| javascript|  132|
 |2012|       java|  124|
 |2012|     python|   69|
 |2012|objective-c|   45|
